@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT better_me_world_3925.wsgi:application
